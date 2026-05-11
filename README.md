@@ -1,4 +1,4 @@
 echo "# Portfollio-one-Page-HTML" >> README.md
 git init
 git add README.md
-git remote add origin https://github.com/XYZL.git
+git remote add origin
